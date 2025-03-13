@@ -1,2 +1,2 @@
 # Credit-Rating-Transition-Model
-This is a small program that uses the stochastic prosses of Markov Chains to return a probability vector for credit ratings
+This is a simple program that leverages the stochastic process of Markov Chains to generate a probability vector representing the likelihood of different credit ratings.
